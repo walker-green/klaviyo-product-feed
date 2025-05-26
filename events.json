@@ -11,7 +11,7 @@
     "stripe_payment_link": "https://buy.stripe.com/bIY4ie0yHdpN0RG6s2",
     "category": "improv",
     "event_link": "https://rails-comedy.com/product/kevin-mcdonald",
-    "name2": "Kevin McDonald:\u00a0Stories from The Kids in the Hall\nSat. Jun 14 @ 8pm"
+    "name2": "Kevin McDonald:\u00a0Stories from The Kids in the Hall @ Sat. 6/14 8pm"
   },
   {
     "id": "67fe81376994c29ae15bafdf",
@@ -25,7 +25,7 @@
     "stripe_payment_link": "https://buy.stripe.com/8wM4ie1CLbhF7g44j7",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/dc-comedy-short-film-fest",
-    "name2": "Short Film Show\nWed. Jun 18 @ 7pm"
+    "name2": "Short Film Show @ Wed. 6/18 7pm"
   },
   {
     "id": "67fe7706846be772f61ede98",
@@ -39,7 +39,7 @@
     "stripe_payment_link": "https://buy.stripe.com/cN23eagxF2L9dEs9Dg",
     "category": "improv",
     "event_link": "https://rails-comedy.com/product/off-cue-06-17-25",
-    "name2": "Off Cue: A Short Form Improv Comedy Show\nTue. Jun 17 @ 9pm"
+    "name2": "Off Cue: A Short Form Improv Comedy Show @ Tue. 6/17 9pm"
   },
   {
     "id": "67fe75cec8aa1ad8cddb494b",
@@ -53,7 +53,7 @@
     "stripe_payment_link": "https://buy.stripe.com/cN2cOKftB3Pd6c0dTr",
     "category": "improv",
     "event_link": "https://rails-comedy.com/product/the-merely-players-06-17-25",
-    "name2": "The Merely Players: An Improvised Shakespeare Show\nTue. Jun 17 @ 8pm"
+    "name2": "The Merely Players: An Improvised Shakespeare Show @ Tue. 6/17 8pm"
   },
   {
     "id": "67bf9cf8b618bd0d6730a968",
@@ -67,7 +67,7 @@
     "stripe_payment_link": "https://buy.stripe.com/eVacOK1CLgBZgQEaHg",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/seann-cantatore",
-    "name2": "Seann Cantatore: In Order to Not Work a 9 to 5\nWed. Jun 18 @ 9pm"
+    "name2": "Seann Cantatore: In Order to Not Work a 9 to 5 @ Wed. 6/18 9pm"
   },
   {
     "id": "6785fd45e0f8375ca14f4b02",
@@ -81,7 +81,7 @@
     "stripe_payment_link": "https://buy.stripe.com/bIY9Cy0yHetR6c016O",
     "category": "improv",
     "event_link": "https://rails-comedy.com/product/meet-cute-06-10-25",
-    "name2": "Meet Cute: Live Blind Date Show\nTue. Jun 10 @ 8pm"
+    "name2": "Meet Cute: Live Blind Date Show @ Tue. 6/10 8pm"
   },
   {
     "id": "6785faebbe8a1e31ccbdb07c",
@@ -95,7 +95,7 @@
     "stripe_payment_link": "https://buy.stripe.com/aEUg0W819bhFasg8yU",
     "category": "improv",
     "event_link": "https://rails-comedy.com/product/out-of-my-wheelhouse-oceans-8-5",
-    "name2": "Out of My Wheelhouse Presents Oceans 8.5\nTue. Jun 17 @ 7pm"
+    "name2": "Out of My Wheelhouse Presents Oceans 8.5 @ Tue. 6/17 7pm"
   },
   {
     "id": "67854018b6fdb711c4340791",
@@ -109,7 +109,7 @@
     "stripe_payment_link": "https://buy.stripe.com/bIY5miepx1H57g43f1",
     "category": "improv",
     "event_link": "https://rails-comedy.com/product/the-ultimate-queer-game-show",
-    "name2": "The Ultimate Queer Game Show\nTue. Jun 10 @ 7pm"
+    "name2": "The Ultimate Queer Game Show @ Tue. 6/10 7pm"
   },
   {
     "id": "67853e720b528e1b80327819",
@@ -123,7 +123,7 @@
     "stripe_payment_link": "https://www.eventbrite.com/e/the-sketch-jam-dcs-only-sketch-comedy-open-mic-free-show-byob-tickets-1249571414739?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/the-sketch-jam-06-24-25",
-    "name2": "The Sketch Jam: DC's Only Sketch Comedy Open Mic\nTue. Jun 24 @ 7pm"
+    "name2": "The Sketch Jam: DC's Only Sketch Comedy Open Mic @ Tue. 6/24 7pm"
   },
   {
     "id": "67853de223c9dd60f17d0657",
@@ -137,7 +137,7 @@
     "stripe_payment_link": "https://www.eventbrite.com/e/the-sketch-jam-dcs-only-sketch-comedy-open-mic-free-show-byob-tickets-1249571394679?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/the-sketch-jam-05-27-25",
-    "name2": "The Sketch Jam: DC's Only Sketch Comedy Open Mic\nTue. May 27 @ 7pm"
+    "name2": "The Sketch Jam: DC's Only Sketch Comedy Open Mic @ Tue. 5/27 7pm"
   },
   {
     "id": "67853d161ddf0b5276b879fa",
@@ -151,7 +151,7 @@
     "stripe_payment_link": "https://buy.stripe.com/fZe6qmchpdpN9oceXm",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/etch-a-sketch-06-11-25",
-    "name2": "Etch A Sketch\nWed. Jun 11 @ 7pm"
+    "name2": "Etch A Sketch @ Wed. 6/11 7pm"
   },
   {
     "id": "670d9e2d5fa5db02bf39439d",
@@ -165,7 +165,7 @@
     "stripe_payment_link": "https://buy.stripe.com/fZe01Ya9hgBZasg4iQ",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/chaps-mist",
-    "name2": "Chaps & MIST\nWed. Jun 11 @ 9pm"
+    "name2": "Chaps & MIST @ Wed. 6/11 9pm"
   },
   {
     "id": "66eb89314d50b4b0b600b7d8",
@@ -179,21 +179,7 @@
     "stripe_payment_link": "https://buy.stripe.com/5kAbKGgxFclJ43SdTt",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/danielle-she-her-the-rens",
-    "name2": "Danielle She/Her & The RENS\nWed. Jun 18 @ 8pm"
-  },
-  {
-    "id": "66dc77c181e341d6b17bb40e",
-    "name": "Off Cue: A Short Form Improv Comedy Show",
-    "description": "Short Form Improv",
-    "slug": "off-cue-05-06-25",
-    "event_date": "2025-05-07T01:00:00.000Z",
-    "rich_text": "<h2 id=\"\">Off Cue: A Short Form Improv Comedy Show</h2><ul id=\"\"><li id=\"\">\ud83d\udcc5 Date: Tuesday,&nbsp;May 6</li><li id=\"\">\ud83d\udd59 Time: 9:00 PM - 9:50 PM</li><li id=\"\">\ud83d\udccd The DC&nbsp;Arts Center, 2438 18th St NW, Washington, DC 20009</li></ul><blockquote id=\"\">Off Cue is a short form improv comedy show where quick-fire games, sharp wit, and total chaos collide. With fast-paced scenes and unexpected twists, every episode delivers big laughs and bigger surprises\u2014nothing\u2019s scripted, and nothing goes as planned.</blockquote><blockquote id=\"\"><strong id=\"\">\u2139\ufe0f Improv Comedy \u2013 </strong>Inspired by iconic shows like<em id=\"\"> Whose Line Is It Anyway?</em>, improv performances are entirely unscripted, with performers creating the entire show on the spot!</blockquote>",
-    "body_2": "<p id=\"\">\ud83c\udf9f\ufe0f <strong id=\"\">Tickets</strong></p><ul id=\"\"><li id=\"\">General Admission: $10</li><li id=\"\">Night Pass: $15 \u2013 Admission to all shows on the same night<br>\u200d</li><li id=\"\">Improv Season Pass:&nbsp;$65 \u2013 Admission to all&nbsp;Tuesday&nbsp;improv shows</li><li id=\"\">All Season Pass:&nbsp;$100 \u2013 Admission to all Tuesday improv and Wednesday sketch shows<br>\u200d</li><li id=\"\">Livestream&nbsp;Link:&nbsp;$5</li><li id=\"\">Livestream Night Pass:&nbsp;$7.50 \u2013 Links to all shows on the same night<br>\u200d</li><li id=\"\">Improv Livestream&nbsp;Pass:&nbsp;$25 \u2013 Links to all Tuesday improv shows</li><li id=\"\">All Livestream&nbsp;Pass:&nbsp;$35 \u2013 Links to all Tuesday improv and Wednesday sketch shows</li></ul><h6 id=\"\">\ud83c\udf78 <strong id=\"\">Location</strong></h6><ul id=\"\"><li id=\"\">\ud83c\udf7b Drinks available for purchase (no drink minimum)</li><li id=\"\">\ud83d\ude97 Parking garage nearby</li><li id=\"\">\u274c This venue is not wheelchair accessible</li><li id=\"\">\ud83d\udc67 Age Requirement 18+&nbsp;unless accompanied by an adult</li></ul><h6 id=\"\">\ud83d\udccb <strong id=\"\">Policies</strong></h6><ul id=\"\"><li id=\"\"><strong id=\"\">All sales are final.</strong> Refunds and exchanges are offered only when a show is canceled or rescheduled.</li><li id=\"\">Late seating is permitted</li><li id=\"\">If you have questions, please email <a href=\"mailto:info@railscomedy.com\" id=\"\">info@railscomedy.com</a></li></ul><h6 id=\"\">\ud83d\udce3 <strong id=\"\">Get your tickets now!</strong></h6>",
-    "image_link": "https://cdn.prod.website-files.com/668392a6f95e35cb4815223a/67fe77038cde5ccba85029a2_2024-10-01_RailsComedy_12AngryImprovisers_MikailFaalasli_2.jpg",
-    "stripe_payment_link": "https://buy.stripe.com/cN26qm81985t43SaHi",
-    "category": "improv",
-    "event_link": "https://rails-comedy.com/product/off-cue-05-06-25",
-    "name2": "Off Cue: A Short Form Improv Comedy Show\nTue. May 6 @ 9pm"
+    "name2": "Danielle She/Her & The RENS @ Wed. 6/18 8pm"
   },
   {
     "id": "66dc77c181e341d6b17bb391",
@@ -207,7 +193,7 @@
     "stripe_payment_link": "https://buy.stripe.com/dR6bKGchpadBgQE7vg",
     "category": "improv",
     "event_link": "https://rails-comedy.com/product/improv-cage-match-06-10-25",
-    "name2": "Improv Cage Match\nTue. Jun 10 @ 9pm"
+    "name2": "Improv Cage Match @ Tue. 6/10 9pm"
   },
   {
     "id": "66dc77c081e341d6b17bb373",
@@ -221,7 +207,7 @@
     "stripe_payment_link": "https://buy.stripe.com/aEUeWS819etRgQE3eL",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/cured-by-pain-the-better-business-bros",
-    "name2": "Cured By Pain & The Better Binness Bros.\nWed. Jun 11 @ 8pm"
+    "name2": "Cured By Pain & The Better Binness Bros. @ Wed. 6/11 8pm"
   },
   {
     "id": "681cae86ed16d59246ce42e0",
@@ -235,7 +221,7 @@
     "stripe_payment_link": "https://buy.stripe.com/6oE6qm6X5etR43S3fT",
     "category": "class",
     "event_link": "https://rails-comedy.com/product/kevin-mcdonald-improv-intensive",
-    "name2": "Kevin McDonald: From Improv to Sketch Intensive\nSat. Jun 14 @ 10am"
+    "name2": "Kevin McDonald: From Improv to Sketch Intensive @ Sat. 6/14 10am"
   },
   {
     "id": "67fe9a1746a7c2fbf980839d",
@@ -249,7 +235,7 @@
     "stripe_payment_link": "https://buy.stripe.com/5kA2a6epx71pfMAcPt",
     "category": "class",
     "event_link": "https://rails-comedy.com/product/finding-your-voice-comedy-songwriting-with-seann-cantatore",
-    "name2": "Finding Your Voice: Comedy Songwriting with Seann Cantatore\nThu. Jun 19 @ 7pm"
+    "name2": "Finding Your Voice: Comedy Songwriting with Seann Cantatore @ Thu. 6/19 7pm"
   },
   {
     "id": "67b88d06722a106d78333ee9",
@@ -263,7 +249,7 @@
     "stripe_payment_link": "https://buy.stripe.com/fZu3cv7tCgRd4PH1wG7N63I",
     "category": "class",
     "event_link": "https://rails-comedy.com/product/kate-symes-workshop",
-    "name2": "Character Game, Part 2: Heat, Weight, and Organic Discovery with Kate Symes\nSun. Jun 1 @ 11am"
+    "name2": "Character Game, Part 2: Heat, Weight, and Organic Discovery with Kate Symes @ Sun. 6/1 11am"
   },
   {
     "id": "66dc77c081e341d6b17bb368",
@@ -277,6 +263,6 @@
     "stripe_payment_link": "https://buy.stripe.com/5kA6qmchp2L97g4aHw",
     "category": "class",
     "event_link": "https://rails-comedy.com/product/musical-workshop",
-    "name2": "Musical Improv for Newbies with Katie O\u2019Donnell and Mike O\u2019Connor\nWed. Jun 4 @ 6pm"
+    "name2": "Musical Improv for Newbies with Katie O\u2019Donnell and Mike O\u2019Connor @ Wed. 6/4 6pm"
   }
 ]
