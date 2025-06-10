@@ -127,7 +127,7 @@
   },
   {
     "id": "670d9e2d5fa5db02bf39439d",
-    "name": "Chaps & MIST",
+    "name": "Chaps & Forevermore Comedy",
     "description": "Sketch Comedy",
     "slug": "chaps-mist",
     "event_date": "2025-06-12T01:00:00.000Z",
@@ -137,7 +137,7 @@
     "stripe_payment_link": "https://buy.stripe.com/fZe01Ya9hgBZasg4iQ",
     "category": "sketch",
     "event_link": "https://rails-comedy.com/product/chaps-mist",
-    "name2": "Chaps & MIST @ Wed. 6/11 9pm"
+    "name2": "Chaps & Forevermore Comedy @ Wed. 6/25 9pm"
   },
   {
     "id": "66eb89314d50b4b0b600b7d8",
@@ -239,7 +239,7 @@
   },
     {
     "id": "6786034bd21837568c9aa07a",
-    "name": "Forevemore Comedy & Bob Beshere",
+    "name": "MIST & Bob Beshere",
     "description": "Sketch Comedy",
     "slug": "forevermore-bob-beshere",
     "event_date": "2025-06-26T00:00:00.000Z",  
@@ -249,6 +249,6 @@
     "stripe_payment_link": "https://buy.stripe.com/eVq00j7tC58v81T6R07N63L",
     "category": "show",
     "event_link": "https://www.rails-comedy.com/product/forevermore-bob-beshere",
-    "name2": "Forevemore Comedy & Bob Beshere @ Wed. 6/25 7pm"
+    "name2": "MIST & Bob Beshere @ Wed. 6/25 8pm"
   }
 ]
